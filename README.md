@@ -1,6 +1,6 @@
 # Oi, eu sou o João! 👋
 
-- 🔭 Hoje estou a procura de um emprego como desenvolvedor front-end
+- 🔭 Estou a procura de uma oportunidade como desenvolvedor front-end
 - 🌱 Estudando HTML5, CSS3 e Java Script
 
 <div>
