@@ -4,9 +4,10 @@
 - 🌱 Estudando e fazendo projetos com HTML5, CSS3 e Java Script
 
 <div>
-  <a href="https://github.com/jovimoura">
+ <a href="https://github.com/jovimoura">
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=jovimoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <!-- <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovimoura&layout=compact&langs_count=16&theme=dark"/> --!>
+ 
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovimoura&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   <h1>Minhas habilidades: 😊</h1>
