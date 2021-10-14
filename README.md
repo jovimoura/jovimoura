@@ -1,7 +1,7 @@
 # Oi, eu sou o João! 👋😊
 
 - 🔭 Estou a procura de uma oportunidade como desenvolvedor front-end
-- 🌱 Estudando e fazendo projetos com HTML5, CSS3, Java Script, Bootstrap e React
+- 🌱 Estudando e fazendo projetos com HTML5, CSS3, Java Script, Bootstrap, ReactJS e VueJS
 
 <div>
  <a href="https://github.com/jovimoura">
