@@ -1,11 +1,10 @@
 # Oi, eu sou o João! 👋😊
 
-- 🔭 Sou Desenvolvedor Front-end Júnior na Port Louis
+- 🔭 Sou Desenvolvedor Front-end
 - 🌱 Estudando e evoluindo cada vez mais na minha stack e nas tecnologias que mais gosto!
 
 <div>
  <a href="https://github.com/jovimoura">
- <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=jovimoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovimoura&layout=compact&langs_count=16&theme=dark"/>
 </div>
   <h1>Minhas habilidades: 😊</h1>
