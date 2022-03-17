@@ -1,4 +1,4 @@
-<h1> Oi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> eu sou o João! </h1>
+<h1> Oi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> eu sou o João </h1>
 
 - 🔭 Sou Desenvolvedor Front-end e estou me desenvolvendo como Fullstack
 - 🎧 Apaixonado por música
