@@ -1,6 +1,6 @@
 <h1> Oi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> eu sou o João </h1>
 
-- 🔭 Sou Desenvolvedor Front-end e estou me desenvolvendo como Fullstack
+- 🔭 Sou Desenvolvedor Front-end 
 - 🎧 Apaixonado por música
 - 🎮 E as vezes jogo casualemente  
 - 🌱 Estudando e evoluindo cada vez mais na minha stack e nas tecnologias que mais gosto!
