@@ -4,7 +4,7 @@
 - 🎧 Apaixonado por música
 - 🎮 E as vezes jogo casualemente  
 - 🌱 Estudando e evoluindo cada vez mais na minha stack e nas tecnologias que mais gosto!
-- 🚀 Sempre em busca de melhorar!
+- 🚀 Sempre em busca de melhorias!
 
 <div>
  <a href="https://github.com/jovimoura">
