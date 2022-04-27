@@ -3,7 +3,7 @@
 - 🔭 I am Front-end Developer;
 - 🎧 I love listening music;
 - 🎮 I like play video games too;
-- 🌱 Even though I am a Front-end Developer, I study and I want become a Fullstack Developer and I also wanna learn Mobile Development;
+- 🌱 Even though I am a Front-end Developer, I study to become a Fullstack Developer and I also wanna learn Mobile Development;
 - 🚀 I'm always looking for my best version!
 
 <div>
