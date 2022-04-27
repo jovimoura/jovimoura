@@ -1,9 +1,9 @@
 <h1> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> my name is João </h1>
 
-- 🔭 I am Front-end Developer 
-- 🎧 I love listening music
-- 🎮 And play video games too
-- 🌱 Even though I am a Front-end Developer, I study and seek to become a Fullstack Developer and I also want to learn Mobile Development
+- 🔭 I am Front-end Developer;
+- 🎧 I love listening music;
+- 🎮 I like play video games too;
+- 🌱 Even though I am a Front-end Developer, I study and I want become a Fullstack Developer and I also wanna learn Mobile Development;
 - 🚀 I'm always looking for my best version!
 
 <div>
