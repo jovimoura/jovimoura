@@ -3,7 +3,6 @@
 - 🔭 I am Fullstack Developer;
 - 🎧 I love listening music;
 - 🎮 I like play video games too;
-- 🌱 Even though I am a Fullstack Developer and I also wanna learn more about Mobile Development;
 - 🚀 I'm always looking for my best version!
 
 ### Check my portfolio: ✌🏽
