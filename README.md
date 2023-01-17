@@ -11,10 +11,6 @@
 https://portfolio-jovimoura.vercel.app/
 ```
 
-<div>
- <a href="https://github.com/jovimoura">
- <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovimoura&layout=compact&langs_count=16&theme=dark"/>
-</div>
   <h1>Hard Skills: </h1>
 <div style="display: inline_block"><br>
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +32,7 @@ https://portfolio-jovimoura.vercel.app/
  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   <h2> Contacts:</h2>
-<div class="midia">
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
   <a href="https://www.linkedin.com/in/jovimoura10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  <a href="https://api.whatsapp.com/send?phone=5521984954753" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Icone de Telefone"></a>
           
