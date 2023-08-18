@@ -21,7 +21,8 @@ https://portfolio-jovimoura.vercel.app/
  <img align="center" alt="Vuetify" height="30" width="40" alt="Vuetify"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
  <img align="center" alt="Nuxt" height="30" width="40" alt="Nuxtjs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
  <img align="center" alt="React" height="30" width="40" alt="Reactjs"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Next" height="30" width="40" alt="Nextjs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> 
+ <img align="center" alt="Next" height="30" width="40" alt="Nextjs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
+  <img align="center" alt="Next" height="30" width="40" alt="Kotlin"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> 
  <img align="center" alt="Tailwind" height="30" width="40" alt="TailwindCSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
  <img align="center" alt="Node" height="30" width="40" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="GraphQL" height="30" width="40" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
