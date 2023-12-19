@@ -23,8 +23,10 @@
     <img align="center" alt="Next" height="30" width="40" alt="Kotlin"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" /> 
    <img align="center" alt="Tailwind" height="30" width="40" alt="TailwindCSS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
    <img align="center" alt="Node" height="30" width="40" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="Ruby" height="30" width="40" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img align="center" alt="Django" height="30" width="40" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
    <img align="center" alt="GraphQL" height="30" width="40" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-     <img align="center" alt="Mongodb" height="30" width="40" alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Mongodb" height="30" width="40" alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
    <img align="center" alt="Express" height="30" width="40" alt="Express"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
    <img align="center" alt="MySQL" height="30" width="40" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
    <img align="center" alt="Firebase" height="30" width="40" alt="Firebase"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
