@@ -7,7 +7,7 @@
   🎧 Music Enthusiast <br>
   🎮 Video Game Player <br>
   🚀 Always striving for my best version! <br>
-  <h2>Check out my <a href="https://portfolio-jovimoura.vercel.app/" target="_blank">portfolio</a> </h2>
+  <h2>Check out my <a href="https://jovimoura.vercel.app/" target="_blank">portfolio</a> </h2>
 </p>
 
 <!--- Estatísticas --->
