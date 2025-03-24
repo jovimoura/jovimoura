@@ -8,7 +8,7 @@ My name is **John Moura** (also known as **@ojohndev**). I currently live in **R
 
 In my free time, I enjoy participating in programming communities, where I learn and share knowledge on various topics. Since **2020**, I've been involved in projects and initiatives that drive the growth of the tech community. 🤝  
 
-I also do live coding streams 🎥, exploring new concepts and teaching interactively, promoting the idea of "learning in public." Additionally, I write articles and create videos—experiences that have been transformative in my journey as a developer. ✍️📹  
+I also create coding videos on YouTube 🎥, exploring new concepts and teaching interactively, promoting the idea of "learning in public." Additionally, I write articles and produce videos—experiences that have been transformative in my journey as a developer. ✍️📹  
 
 ## 📝 Detailed Information  
 
