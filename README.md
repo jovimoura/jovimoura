@@ -26,7 +26,7 @@ I also create coding videos on YouTube 🎥, exploring new concepts and teaching
 
 <!-- Add some fun facts to show you're more than just code -->
 
-- 🔭 I’m currently working on [YoResume](https://yoresume.work/)
+- 🔭 I’m currently working on my Micro Saas [YoResume](https://yoresume.work/)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://jovimoura.vercel.app)
 - 🎸 I'm passionate about music and have explored various instruments and styles over the years.  
 - 💡 I started coding in **2017**, and since then, I've been challenging myself and learning new things.  
