@@ -6,7 +6,7 @@ I build software, launch my own products, and share the journey in public.
 
 ### 🛠️ Building
 
-- **<a href="https://notchfy.ojohndev.com/" target="_blank">Notchfy</a>** — A powerfull Notch for your Mac/Windows/Linux
+- **<a href="https://www.usenutfy.com/" target="_blank">Nutfy</a>** — A powerfull Notch for your Mac/Windows/Linux
 - **<a href="https://yoresume.work/" target="_blank">YoResume</a>** — AI-powered resume and job application tools
 - **<a href="https://mangajobs.com/" target="_blank">MangaJobs</a>** — A platform for discovering and applying to jobs
 
